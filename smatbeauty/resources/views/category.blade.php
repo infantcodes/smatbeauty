@@ -16,12 +16,12 @@
         <!-- Site Title -->
         <title>Shop</title>
 
-        <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
             <!--
             CSS
             ============================================= -->
             <link rel="stylesheet" href="css/linearicons.css">
-            <link rel="stylesheet" href="css/owl.carousel.css">            
+            <link rel="stylesheet" href="css/owl.carousel.css">
             <link rel="stylesheet" href="css/font-awesome.min.css">
             <link rel="stylesheet" href="css/nice-select.css">
 			<link rel="stylesheet" href="css/nouislider.min.css">
@@ -37,13 +37,13 @@
                         <div class="d-flex justify-content-between align-items-center">
                             <ul class="list">
                                 <li><a href="tel:+12312-3-1209">+12312-3-1209</a></li>
-                                <li><a href="mailto:support@colorlib.com">support@colorlib.com</a></li>                             
+                                <li><a href="mailto:support@colorlib.com">support@colorlib.com</a></li>
                             </ul>
                             <ul class="list">
                                 <li><a href="#">login</a></li>
                             </ul>
                         </div>
-                    </div>                  
+                    </div>
                 </div>
                 <nav class="navbar navbar-expand-lg navbar-light">
                     <div class="container">
@@ -55,8 +55,8 @@
                           </button>
                           <div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
                             <ul class="navbar-nav">
-                                <li><a href="#home">Home</a></li>
-                                <li><a href="#catagory">Category</a></li>
+                                <li><a href="index">Home</a></li>
+                                <li><a href="catagory">Category</a></li>
                                 <li><a href="#men">Men</a></li>
                                 <li><a href="#women">Women</a></li>
                                 <li><a href="#latest">latest</a></li>
@@ -66,19 +66,19 @@
                                         Pages
                                       </a>
                                       <div class="dropdown-menu">
-                                        <a class="dropdown-item" href="category.html">Category</a>
-                                        <a class="dropdown-item" href="single.html">Single</a>
-                                        <a class="dropdown-item" href="cart.html">Cart</a>
-                                        <a class="dropdown-item" href="checkout.html">Checkout</a>
-                                        <a class="dropdown-item" href="confermation.html">Confermation</a>
-                                        <a class="dropdown-item" href="login.html">Login</a>
-                                        <a class="dropdown-item" href="tracking.html">Tracking</a>
-                                        <a class="dropdown-item" href="generic.html">Generic</a>
-                                        <a class="dropdown-item" href="elements.html">Elements</a>
+                                        <a class="dropdown-item" href="category">Category</a>
+                                        <a class="dropdown-item" href="single">Single</a>
+                                        <a class="dropdown-item" href="cart">Cart</a>
+                                        <a class="dropdown-item" href="checkout">Checkout</a>
+                                        <a class="dropdown-item" href="confermation">Confermation</a>
+                                        <a class="dropdown-item" href="login">Login</a>
+                                        <a class="dropdown-item" href="tracking">Tracking</a>
+                                        <a class="dropdown-item" href="generic">Generic</a>
+                                        <a class="dropdown-item" href="elements">Elements</a>
                                       </div>
-                                    </li>                                   
+                                    </li>
                             </ul>
-                          </div>                        
+                          </div>
                     </div>
                 </nav>
             </header>
@@ -187,7 +187,7 @@
 								  		<h5>Long Sleeve shirt</h5>
 								  		<h3>$150.00</h3>
 								   </div>
-								</div>	
+								</div>
 								<div class="col-xl-4 col-lg-6 col-md-12 col-sm-6 single-product">
 								  <div class="content">
 								      <div class="content-overlay"></div>
@@ -241,7 +241,7 @@
 								  		<h5>Long Sleeve shirt</h5>
 								  		<h3>$150.00</h3>
 								   </div>
-								</div>	
+								</div>
 								<div class="col-xl-4 col-lg-6 col-md-12 col-sm-6 single-product">
 								  <div class="content">
 								      <div class="content-overlay"></div>
@@ -295,7 +295,7 @@
 								  		<h5>Long Sleeve shirt</h5>
 								  		<h3>$150.00</h3>
 								   </div>
-								</div>	
+								</div>
 								<div class="col-xl-4 col-lg-6 col-md-12 col-sm-6 single-product">
 								  <div class="content">
 								      <div class="content-overlay"></div>
@@ -349,7 +349,7 @@
 								  		<h5>Long Sleeve shirt</h5>
 								  		<h3>$150.00</h3>
 								   </div>
-								</div>																																								
+								</div>
 							</div>
 						</section>
 						<!-- End Best Seller -->
@@ -512,7 +512,7 @@
 									<div id="price-range"></div>
 									<div class="value-wrapper d-flex">
 										<div class="price">Price:</div>
-										<span>$</span><div id="lower-value"></div> <div class="to">to</div> 
+										<span>$</span><div id="lower-value"></div> <div class="to">to</div>
 										<span>$</span><div id="upper-value"></div>
 									</div>
 								</div>
@@ -521,7 +521,7 @@
 					</div>
 				</div>
 			</div>
-		
+
             <!-- Start Most Search Product Area -->
             <section class="section-half">
                 <div class="container">
@@ -642,7 +642,7 @@
             </section>
             <!-- End Most Search Product Area -->
 
-            <!-- start footer Area -->      
+            <!-- start footer Area -->
             <footer class="footer-area section-gap">
                 <div class="container">
                     <div class="row">
@@ -671,16 +671,16 @@
                                                 <div style="position: absolute; left: -5000px;">
                                                     <input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
                                                 </div>
-                                            
+
                                             <!-- <div class="col-lg-4 col-md-4">
                                                 <button class="bb-btn btn"><span class="lnr lnr-arrow-right"></span></button>
                                             </div>  -->
-                                        </div>      
+                                        </div>
                                         <div class="info"></div>
                                         </form>
                                 </div>
                                 </div>
-                        </div>                      
+                        </div>
                         <div class="col-lg-3  col-md-6 col-sm-6">
                             <div class="single-footer-widget mail-chimp">
                                 <h6 class="mb-20">Instragram Feed</h6>
@@ -707,7 +707,7 @@
                                     <a href="#"><i class="fa fa-behance"></i></a>
                                 </div>
                             </div>
-                        </div>                          
+                        </div>
                     </div>
                     <div class="footer-bottom d-flex justify-content-center align-items-center flex-wrap">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
@@ -715,8 +715,8 @@
 						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </div>
                 </div>
-            </footer>   
-            <!-- End footer Area -->       
+            </footer>
+            <!-- End footer Area -->
 
 			<!-- Modal Quick Product View -->
 			<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-hidden="true">
@@ -753,7 +753,7 @@
 											<a href="#" class="view-full">View full Details <span class="lnr lnr-arrow-right"></span></a>
 										</div>
 										<div class="bottom">
-											<div class="color-picker d-flex align-items-center">Color: 
+											<div class="color-picker d-flex align-items-center">Color:
 												<span class="single-pick"></span>
 												<span class="single-pick"></span>
 												<span class="single-pick"></span>
@@ -779,11 +779,11 @@
 								</div>
 							</div>
 						</div>
-					</div> 
+					</div>
 				</div>
 			</div>
 
- 
+
 
             <script src="js/vendor/jquery-2.2.4.min.js"></script>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
@@ -793,7 +793,7 @@
             <script src="js/jquery.sticky.js"></script>
 				<script src="js/nouislider.min.js"></script>
             <script src="js/jquery.magnific-popup.min.js"></script>
-            <script src="js/owl.carousel.min.js"></script>            
-            <script src="js/main.js"></script>  
+            <script src="js/owl.carousel.min.js"></script>
+            <script src="js/main.js"></script>
         </body>
     </html>
